@@ -45,6 +45,14 @@
 | KNN | 'n_neighbors': 2, 'p': 2, 'weights': 'uniform' | 0.99 | 0.99 | 0.99 | 0.99 | 0.937s |
 | RandomForestClassifier | 'criterion': 'gini', 'max_depth': 5, 'max_features': 'auto', 'n_estimators': 500 | 1.0 | 1.0 | 1.0 | 1.0 | 155.551s |
 
+#### CROSS-VALIDATION-SCORE CON LOS HYPERPARAMETROS PARA CADA MODELO
+| Model | Hiperparametres | Score |
+| -- | -- | -- |
+| Logistic Regression | 'C': 1, 'penalty': 'l1', 'solver': 'saga' | 0.843 |
+| SVC | 'C': 1, 'degree': 3, 'kernel': 'rbf' | 1.0 |
+| KNN | 'n_neighbors': 2, 'p': 2, 'weights': 'uniform' | 0.988 |
+| RandomForestClassifier | 'criterion': 'gini', 'max_depth': 5, 'max_features': 'auto', 'n_estimators': 500 | 1.0 |
+
 ## Guide
 Per tal de fer una prova, es pot fer servir amb la següent comanda
 ``` python3 demo/demo.py --input here ```
