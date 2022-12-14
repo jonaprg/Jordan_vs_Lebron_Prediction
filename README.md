@@ -59,7 +59,7 @@ Todos estos modelos han sido probados y ejecutados con un 70% para los datos de 
 | -- | -- | -- | -- | -- | -- |
 | Logistic Regression | 0.785 | 0.779 | 0.786 | 0.781 | 0.151s |
 | SVC | 0.965 | 0.963 | 0.966 | 0.964 | 0.157s |
-| KNN | 0.891 | 0.888 | 0.892 | 0.889 | 100ms |
+| KNN | 0.891 | 0.888 | 0.892 | 0.889 | 0.155s |
 | RandomForestClassifier | 0.987 | 0.988 | 0.987 | 0.987 | 0.151s |
 
 #### DATOS ESTANDARIZADOS Y MODELOS CON HYPERPARAMETROS
