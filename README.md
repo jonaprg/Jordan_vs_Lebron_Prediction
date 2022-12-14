@@ -85,7 +85,7 @@ Todos estos modelos han sido probados y ejecutados con un 70% para los datos de 
 ## Guide
 Per tal de fer una prova, es pot fer servir amb la següent comanda
 
-``` $ git clone https://github.com/migueldemollet/Activity-Recognition.git ```
+``` $ git clone https://github.com/jonaprg/Jordan_vs_Lebron_Prediction ```
 
 Abrir el archivo Lebron-vs-JordanPreditcion.ipynb en un IDE como Visual Studio Code o pycharm.
 
